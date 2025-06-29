@@ -1,0 +1,196 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix
+{
+    clear: both;
+}
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navpar
+{
+    position:relative;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    z-index: 9999px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    align-items: center;
+}
+.logo
+{
+    width: 10%;
+}
+.fary
+{
+    
+    width:65%;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+a
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700px;
+}
+li
+{
+    
+}
+
+
+
+
+
+.home
+{
+    
+    background-image: url(imadges/ww);
+    background-size:cover ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+    overflow:auto;
+    height: 100vh;
+}
+.home-content
+{
+    margin-top: 50px;
+}
+.home p
+{
+    margin-bottom: 20px ;
+font-size: 230%;
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color:black;
+}
+.logo
+{
+    font-size: 27px;
+
+    color: rgb(49, 49, 49);;
+}
+
+.but
+{
+    padding: 15px 30px;
+    border: none;
+}
+.but-browen
+{
+   background-color: brown;
+}
+.but-light
+{
+    background-color: #fff;
+}
+.chef
+{
+    
+}
+.chef-phto
+{
+    background-color: chocolate;
+    width: 40%;
+    float: left;
+}
+.chef-about
+{
+    
+    width: 60%;
+    float: left;
+    text-align: center;
+    padding-top:  50px;
+}
+.chef-phto img
+{
+    width: 100%;
+}
+.chef-about .chef-des
+{
+    font-size: 18px;
+    color: #868686;
+    padding: 40px;
+}
+.chef-about button
+{
+    padding: 15px 30px;
+    border: solid 2px black;
+    
+    background-color: transparent
+    
+}
+
+.chef-discover
+{
+font-family: "Dancing Script", cursive;
+  color:#f2ce08;
+  font-size: 28px;
+}
+
+.facebook
+{
+    position: fixed;
+    top:290px;
+    right: 10px;
+ font-size: 30px;
+ color:#09c;
+ 
+}
+.lenk
+{
+    position: fixed;
+    top:250px;
+    right: 10px;
+ font-size: 30px;
+ color:#09c;
+ 
+}
+.whatsapp
+{
+    position: fixed;
+    top:330px;
+    right: 10px;
+ font-size: 30px;
+ color:green 
+}
+.ccc
+{
+ position: fixed;
+top:370px;
+ right: 10px;
+ font-size: 30px;
+ color:#09c; 
+}
+
+.qwqw
+{
+ position: fixed;
+top:210px;
+ right: 10px;
+ font-size: 30px;
+ color: #74C0FC;
+}
+
+
+
+
